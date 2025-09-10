@@ -29,3 +29,10 @@ Frondend setup:
 cd frontend
 npm install
 npm start
+
+
+demo:
+
+
+https://github.com/user-attachments/assets/89072da1-124c-439f-9342-a75333b0b438
+
